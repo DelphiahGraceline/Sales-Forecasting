@@ -9,3 +9,5 @@ Seasonal Naive Model
 Holt-Winters Model (Triple Exponential Smoothing)
 ARIMA and Seasonal ARIMA Models
 Linear Regression Model
+
+INTERN ID:CITS4271
